@@ -1,10 +1,3 @@
-var div = document.createElement("div");
-div.style.width = "100px";
-div.style.height = "100px";
-div.style.background = "red";
-div.style.color = "white";
-div.innerHTML = "Hello";
-
-document.body.appendChild(div);
+document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__0__QuestionData_PostalCodeAnswer').innerHTML = '99999';
 
 alert('Hello World');
