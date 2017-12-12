@@ -6,3 +6,5 @@ div.style.color = "white";
 div.innerHTML = "Hello";
 
 document.body.appendChild(div);
+
+alert('Hello World');
