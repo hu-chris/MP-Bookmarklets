@@ -1,1 +1,1 @@
-alert('Hello World');
+document.getElementsByClassName('PostalCodeAnswer').innerHTML = '99999';
