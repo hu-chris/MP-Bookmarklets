@@ -7,4 +7,4 @@ document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__8__QuestionD
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '1970';
-document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__14__QuestionData_UserAnswer').value = 'F';
+document.querySelector('input[type="radio"][value="Female"]')
