@@ -7,4 +7,5 @@ document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__8__QuestionD
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '1970';
-document.forms["Page_GetQuote__ProductQuestionCodes_QUOTE__14__QuestionData_UserAnswer"]["F"].checked=true
+var z = document.getElementsByName('Page[GetQuote].ProductQuestionCodes[QUOTE][14].QuestionData.UserAnswer')
+alert(z);
