@@ -3,3 +3,4 @@ document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__2__QuestionD
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__7__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__7__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__7__QuestionData_DateAnswer').value += '1965';
+document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__8__QuestionData_UserAnswer').checked = true;
