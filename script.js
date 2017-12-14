@@ -4,9 +4,10 @@ document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__7__QuestionD
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__7__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__7__QuestionData_DateAnswer').value += '1965';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__8__QuestionData_UserAnswer').checked = true;
+document.getElementById('addSpouse').click();
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '1970';
 var z = document.getElementsByName('Page[GetQuote].ProductQuestionCodes[QUOTE][14].QuestionData.UserAnswer');
 z[1].checked = true;
-document.getElementById('addSpouse').click();
+
