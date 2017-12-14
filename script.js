@@ -8,4 +8,4 @@ document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__Question
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '01';
 document.getElementById('Page_GetQuote__ProductQuestionCodes_QUOTE__13__QuestionData_DateAnswer').value += '1970';
 var z = document.getElementsByName('Page[GetQuote].ProductQuestionCodes[QUOTE][14].QuestionData.UserAnswer');
-console.log(z);
+z[1].checked = true;
