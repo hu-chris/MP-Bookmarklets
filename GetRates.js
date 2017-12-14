@@ -1,1 +1,1 @@
-Alert('Hello World';
+Alert('Hello World');
